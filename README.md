@@ -1,7 +1,10 @@
 ## 🎮 Bright Squad — Release Oficial (v1.0)
+---
+### 🔗 Links oficiais do projeto (modelo)
 
-* 🎮 **Jogar online (Itch.io):** [https://omaestro174.itch.io/bright-squad](https://omaestro174.itch.io/bright-squad)
+* 🎮 **Jogar no Itch.io:** [https://omaestro174.itch.io/bright-squad](https://omaestro174.itch.io/bright-squad)
 * 📦 **Releases (GitHub):** [https://github.com/TheBrightGames/BrightSquad-Builds/releases/tag/v1.0.0](https://github.com/TheBrightGames/BrightSquad-Builds/releases/tag/v1.0.0)
+* 📘 **GDD (PDF):** [https://github.com/TheBrightGames/BrightSquad-Builds/blob/main/GDD-BrightSquad.pdf](https://github.com/TheBrightGames/BrightSquad-Builds/blob/main/GDD-BrightSquad.pdf)
 
 ---
 
