@@ -1,81 +1,118 @@
-# ☀️ Bright Squad – Builds v1.0
+## 🎮 Bright Squad — Release Oficial (v1.0)
 
-Repositório público com as builds oficiais do jogo **Bright Squad – O Futuro é Claro**, desenvolvido pela organização **The Bright Games** em parceria com iniciativas de impacto social.
+🔗 **Jogue agora:**
+👉 [https://omaestro174.itch.io/bright-squad](https://omaestro174.itch.io/bright-squad)
 
-## Visão geral do jogo
+### 🌟 Sobre o Jogo
 
-Bright Squad é um jogo 3D casual focado em **coleta seletiva de lixo, reciclagem e cuidado com a comunidade**.  
-O jogador controla um dos integrantes do squad e precisa **limpar o bairro, separar resíduos corretamente e cumprir missões** dentro de um tempo limitado, acumulando pontos e desbloqueando melhorias e recompensas visuais.
+**Bright Squad** é um jogo de ação 3D em terceira pessoa que celebra o protagonismo jovem, a tecnologia e a transformação socioambiental em comunidades urbanas brasileiras.
+O jogador assume o papel de **Naldinho, Léo ou Silvana**, integrantes do Bright Squad, um grupo que usa criatividade, trabalho em equipe e tecnologia para transformar seu bairro por meio da conscientização ambiental.
 
-## Plataformas e builds
+Inspirado nos valores de **ESG** e na proposta da **Claro Gaming**, o jogo entrega uma experiência acessível, educativa e envolvente.
 
-- **Android**: APK para instalação em dispositivos móveis.  
-- **WebGL**: versão jogável diretamente no navegador.  
-- **Windows**: executável para PCs Windows (x86_64).
+---
 
-A estrutura deste repositório é:
+## 🧩 Principais Funcionalidades
 
-```text
-Android/   -> BrightSquad_v1.0.apk
-WebGL/     -> build WebGL (index.html, Build/, TemplateData/, StreamingAssets/)
-Windows/   -> BrightSquad_v1.0_Win.zip (EXE + pastas de dados)
-```
+### 🎯 Gameplay
 
-## Mecânicas principais
+* Ação 3D em **Terceira Pessoa**
+* Sistema de **coleta de resíduos** com progressão por missões
+* **Tempo limitado** para completar objetivos
+* Sistema de **score dinâmico** baseado em:
 
-- **Exploração do bairro**  
-  - Movimento livre do personagem em terceira pessoa pelos cenários da comunidade.  
-  - Interação com NPCs que explicam objetivos, dicas e contexto social das missões.
+  * Tipo de resíduo coletado
+  * Quantidade
+  * Eficiência de tempo
+* **Medalhas** ao final da missão:
+  🥉 Bronze | 🥈 Prata | 🥇 Ouro
 
-- **Coleta e separação de lixo**  
-  - Objetos de lixo espalhados pelas ruas e pontos-chave do cenário.  
-  - Cada item pertence a uma categoria (papel, plástico, metal, vidro, orgânico etc.).  
-  - O jogador deve **carregar o lixo até a lixeira correta**, evitando descartes errados.
+---
 
-- **Sistema de missões**  
-  - Missões principais de “limpar áreas” (rua, praça, entorno de equipamentos públicos).  
-  - Missões secundárias ligadas a personagens da comunidade e situações específicas de descarte.  
-  - Algumas missões usam **checkpoints de progresso** e salvamento rápido para continuidade.
+### 🎧 Mecânicas Diferenciais
 
-## Pontuação e feedback
+* 🔊 **Som Direcional** para localizar resíduos pelo áudio
+* 🧠 Planejamento de **rotas eficientes**
+* Separação automática de resíduos por categoria
+* Progressão visual do bairro conforme as missões são concluídas
 
-- **Pontuação por acertos**  
-  - Cada lixo colocado na lixeira correta concede pontos.  
-  - Combos de acertos consecutivos geram **bônus de pontuação** e mensagens positivas na HUD.  
+---
 
-- **Penalidades leves**  
-  - Descarte incorreto reduz a pontuação do combo ou concede menos pontos.  
-  - Feedback visual e textual indica qual seria o descarte correto, reforçando o aprendizado.
+## 🧑‍🤝‍🧑 Personagens Jogáveis
 
-- **Progresso de missão**  
-  - A barra de progresso e indicadores de objetivos mostram quanto falta para concluir a missão atual.  
-  - Ao terminar, o jogador recebe um resumo com **tempo, quantidade de lixo coletada e acertos**.
+* **Naldinho** – Líder tecnológico e protagonista
+* **Léo** – Inventor sustentável
+* **Silvana** – Organizadora e liderança comunitária
 
-## Interface e interações
+Cada personagem possui:
 
-- **HUD dinâmica**  
-  - Exibe pontuação, tempo/missão, ícones de tipo de lixo e indicadores de objetivos.  
-  - Botão de **pause** com menu de retorno ao jogo, opções e saída para o menu principal.
+* Missões dedicadas
+* Diálogos contextuais
+* Conexão direta com a narrativa
 
-- **Menus e fluxo de cenas**  
-  - **Splash / Logos** das organizações parceiras.  
-  - **Main Menu** com opções de jogar, configurações de áudio e créditos.  
-  - **Tela de Loading** com personagem animado e dicas rápidas sobre reciclagem.  
-  - **Tela de Resultado** ao final das missões, exibindo desempenho do jogador.
+---
 
-- **Áudio**  
-  - Música ambiente temática e efeitos para coleta de lixo, acertos e interações.  
-  - Controlador de áudio global com salvamento de preferências do jogador (volume geral, música, efeitos).
+## 🗺️ Cenários e Universo
 
-## Salvamento e continuidade
+Ambientado no bairro fictício **Morada do Sol**, o jogo apresenta:
 
-- Sistema de **quicksave** salva progresso básico da missão e algumas preferências do jogador.  
-- Ao entrar de novo na cena, o jogo tenta restaurar posição, estado das missões e configurações de áudio, quando aplicável.
+* Rua Principal
+* Vielas e Becos
+* Praça Central
+* Quadra de Esportes
+* Áreas Elevadas (Rooftops)
 
-## Créditos e licenças
+☀️ Ambiente sempre diurno, vibrante e otimista, com o **sol como metáfora visual da marca Claro**.
 
-- Jogo desenvolvido pela **The Bright Games**.  
-- Algumas imagens, logos e marcas exibidas no jogo pertencem a seus respectivos proprietários e são usadas com autorização específica.  
-- Este repositório contém **apenas builds compiladas**; o código-fonte e assets originais permanecem em repositórios privados da organização.
+---
 
+## 🖥️ Interface & Controles
+
+* HUD intuitivo com:
+
+  * Timer
+  * Score
+  * Progresso de coleta
+  * Feedback visual e sonoro
+* Controles para:
+
+  * **PC (Teclado + Mouse)**
+  * **Web / Mobile (touch)**
+
+---
+
+## 🏆 Progressão e Recompensas
+
+* Desbloqueio gradual de áreas
+* Elementos visuais no bairro evoluem conforme o progresso
+* Feedback positivo ao jogador, incentivando eficiência e consciência ambiental
+
+---
+
+## 📦 Plataformas
+
+* 🖥️ Windows
+* 🌐 WebGL
+* 📱 Android
+
+*(Builds disponíveis conforme plataforma)*
+
+---
+
+## 👥 Equipe
+
+**Bright Squad – Squad G2 (Imersão Claro)**
+
+* Game Design: Janei Vieira
+* Pesquisa & Prototipação: Romilson Luis de Assumpção
+* Revisão & Testes: Lucas Batista Gaino
+* Gerente de Projeto: José Magalhães
+* Instituição: Soul Code Academy
+
+---
+
+## ♻️ Mensagem Final
+
+Bright Squad não é apenas um jogo — é uma experiência que mostra como **jovens, tecnologia e colaboração podem transformar comunidades reais**.
+Cada missão concluída representa um passo em direção a um futuro mais consciente, sustentável e inclusivo.
 
