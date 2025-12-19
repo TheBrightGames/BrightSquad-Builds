@@ -1,7 +1,13 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Assets",
+    "\\Assets\\Game\\Art",
+    "\\Assets\\Game\\Art\\Sprites",
+    "\\Assets\\Game\\Art\\Sprites\\UI",
+    "\\Assets\\_Project",
+    "\\Assets\\_Project\\Docs"
   ],
-  "SelectedNode": "\\README.md",
+  "SelectedNode": "\\Assets\\_Project\\Docs\\GDD-BrightSquad.pdf",
   "PreviewInSolutionExplorer": false
 }
