@@ -12,16 +12,16 @@ Principais destaques:
 - Builds para **Windows**, **WebGL** e **Android (APK)**.
 
 👉 Veja a release atual:  
-[Bright Squad v1.0.0](https://github.com/TheBrightGames/BrightSquad-Builds/releases/tag/v1.0.0)
+[Bright Squad v1.0.0](https://github.com/TheBrightGames/BrightSquad-Builds/releases/tag/v1.0.1)
 
 ## 📦 Downloads
 
 | Plataforma | Arquivo | Observações |
 | --- | --- | --- |
-| Windows (instalador) | `BrightSquad_v1.0_Windows.exe` | Setup com instalador Inno Setup. |
-| Windows (versão portátil) | `BrightSquad_v1.0_Windows.zip` | Extrair e executar `Bright Squad.exe`. |
-| WebGL | `BrightSquad_v1.0_WebGL.zip` | Para publicação em servidor / Itch.io. |
-| Android | `BrightSquad_v1.0.apk` | Instalação manual em dispositivos Android. |
+| Windows (instalador) | `BrightSquad_v1.0.1_Windows.exe` | Setup com instalador Inno Setup. |
+| Windows (versão portátil) | `BrightSquad_v1.0.1_Windows.zip` | Extrair e executar `Bright Squad.exe`. |
+| WebGL | `BrightSquad_v1.0.1_WebGL.zip` | Para publicação em servidor / Itch.io. |
+| Android | `BrightSquad_v1.0.1.apk` | Instalação manual em dispositivos Android. |
 
 Todos os arquivos acima estão anexados na release v1.0.0.
 
