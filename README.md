@@ -85,13 +85,21 @@ Ambientado no bairro fictício **Morada do Sol**, com:
 
 **Bright Squad – Squad G2 (Imersão Claro)**
 
-* **Janei Vieira** — Game Design & UI/UX
-  [LinkedIn](https://www.linkedin.com/in/janei-vieira/)
-* **Romilson Luis de Assumpção** — Pesquisa & Prototipação
-  [LinkedIn](https://www.linkedin.com/in/romilson-desenvolvedor/)
-* **Lucas Batista Gaino** — Revisão & Testes
-  [LinkedIn](https://www.linkedin.com/in/lucas-batista-gaino-9b658a395/)
-* **José Magalhães** — Gerente de Projeto / Tech Lead
+Claro 👍
+Segue a **mesma informação organizada em tabela**, mantendo o estilo do README e facilitando a leitura:
+
+---
+
+## 👥 Equipe de Desenvolvimento
+
+**Bright Squad – Squad G2 (Imersão Claro)**
+
+| Nome                           | Função                         | Perfil                                                                 |
+| ------------------------------ | ------------------------------ | ---------------------------------------------------------------------- |
+| **Janei Vieira**               | Game Design & UI/UX            | [LinkedIn](https://www.linkedin.com/in/janei-vieira/)                  |
+| **Romilson Luis de Assumpção** | Pesquisa & Prototipação        | [LinkedIn](https://www.linkedin.com/in/romilson-desenvolvedor/)        |
+| **Lucas Batista Gaino**        | Revisão & Testes               | [LinkedIn](https://www.linkedin.com/in/lucas-batista-gaino-9b658a395/) |
+| **José Magalhães**             | Gerente de Projeto / Tech Lead | —                                                                      |
 
 Instituição: **Soul Code Academy**
 
@@ -99,17 +107,17 @@ Instituição: **Soul Code Academy**
 
 ## 🔗 Links Oficiais
 
-* 🎮 **Jogar no Itch.io:**
+* 🎮 **Jogar no Itch.io:**  
   [https://omaestro174.itch.io/bright-squad](https://omaestro174.itch.io/bright-squad)
 
-* 📦 **Releases e Builds (GitHub):**
-  [https://github.com/TheBrightGames/BrightSquad-Builds/releases](https://github.com/TheBrightGames/BrightSquad-Builds/releases)
+* 📘 **Game Design Document (GDD):**  
+  [GDD-BrightSquad.pdf](https://github.com/TheBrightGames/BrightSquad-Builds/blob/main/Assets/_Project/Docs/GDD-BrightSquad.pdf)
 
-* 📘 **Game Design Document (GDD):**
-  [https://github.com/TheBrightGames/BrightSquad-Builds/blob/main/GDD-BrightSquad.pdf](https://github.com/TheBrightGames/BrightSquad-Builds/blob/main/Assets/_Project/Docs/GDD-BrightSquad.pdf)
+* 💻 **Repositório de Desenvolvimento (Unity):** 
+  [BrightSquad/dev](https://github.com/TheBrightGames/BrightSquad-Builds/tree/dev)
 
-* 💻 **Repositório de Desenvolvimento (Unity):**
-  [https://github.com/TheBrightGames/BrightSquad-Builds](https://github.com/TheBrightGames/BrightSquad-Builds/tree/dev)
+* 📦 **Releases e Builds (GitHub):**  
+  [BrightSquad/releases](https://github.com/TheBrightGames/BrightSquad-Builds/releases)
 
 ---
 
@@ -130,7 +138,7 @@ Este repositório é dedicado **exclusivamente às builds jogáveis** do projeto
 * Menu de pausa
 
 👉 **Release atual:**
-[https://github.com/TheBrightGames/BrightSquad-Builds/releases/tag/v1.0.1](https://github.com/TheBrightGames/BrightSquad-Builds/releases/tag/v1.0.1)
+[v1.0.1](https://github.com/TheBrightGames/BrightSquad-Builds/releases/tag/v1.0.1)
 
 ---
 
@@ -165,5 +173,5 @@ O jogo é distribuído gratuitamente para **uso educacional, pessoal e de demons
 
 Para mais detalhes, consulte o arquivo **README_BrightSquad.txt** incluído nas builds.
 
----
+
 
