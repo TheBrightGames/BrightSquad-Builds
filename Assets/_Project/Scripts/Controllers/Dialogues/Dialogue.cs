@@ -17,6 +17,7 @@ public class Dialogue : MonoBehaviour
     // NOVO: referência para desbloqueio
     public UnlockBuildings unlockBuildings;
     public bool desbloqueiaAoTerminar = false;
+    public bool isNPC;
     public GameObject interactionIcon;
     public UIDialogueButtons uiButtons;
 
@@ -51,7 +52,7 @@ public class Dialogue : MonoBehaviour
         dc.Speech(speechText, actorName);
         Debug.Log("Dialogo iniciado com " + actorName);
 
-        if (interactionIcon != null)
+        if (interactionIcon != null && isNPC)
             interactionIcon.SetActive(false);
 
         if (uiButtons != null)
