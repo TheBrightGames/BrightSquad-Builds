@@ -36,6 +36,7 @@ Packages/packages-lock.json
 *.mdb
 *.opendb
 *.VC.db
+UserSettings/
 
 # Collab / Plastic / Cache
 .Collab/
@@ -68,6 +69,7 @@ Desktop.ini
 *.unitypackage
 *.log
 *.orig
+BrightSquad.slnx
 
 # Snyk Security Extension - AI Rules (auto-generated)
 .github/instructions/snyk_rules.instructions.md
