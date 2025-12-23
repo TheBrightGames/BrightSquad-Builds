@@ -12,6 +12,31 @@
 ---
 
 ## 📖 Sobre o Jogo
+ 
+## 🛠️ .NET SDK (8.0.100)
+
+Este repositório está pinado para **.NET SDK 8.0.100** via `global.json` na raiz do projeto.
+
+- Instalação local recomendada: `~/.dotnet` (suportado neste workspace)
+- Para usar no terminal atual:
+
+```bash
+export PATH="$HOME/.dotnet:$PATH"
+dotnet --version  # deve exibir 8.0.100
+```
+
+### Como atualizar a versão do SDK
+- Edite `global.json` e ajuste `sdk.version` para a nova versão.
+- Mantenha `rollForward: "disable"` para builds consistentes.
+- Valide:
+
+```bash
+export PATH="$HOME/.dotnet:$PATH"
+dotnet --version
+dotnet --info
+```
+
+Faça um commit único com a atualização do `global.json` e registre no changelog.
 
 **Bright Squad** é um jogo de ação e aventura 3D que destaca o protagonismo jovem, a tecnologia e a transformação socioambiental em comunidades urbanas brasileiras.
 
