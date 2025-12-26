@@ -4,6 +4,7 @@
 
 # Pasta de cache (recriada pelo Unity)
 [Ll]ibrary/
+[Ll]ibrary/ScriptAssemblies/
 [Tt]emp/
 [Oo]bj/
 [Bb]uild/
@@ -11,11 +12,16 @@
 [Ll]ogs/
 [Mm]emoryCaptures/
 
+# Pastas de build e distribuição (Unity 6+)
+[Aa]rtifacts/
+[Dd]istribution/
+
 # Cache de pacotes
 [Pp]ackages/com.unity.package-manager-ui/
 [Pp]ackageCache/
+Packages/packages-lock.json
 
-# Dados de usu�rio locais
+# Dados de usu�rio locais
 *.csproj
 *.unityproj
 *.sln
@@ -30,6 +36,7 @@
 *.mdb
 *.opendb
 *.VC.db
+UserSettings/
 
 # Collab / Plastic / Cache
 .Collab/
@@ -37,6 +44,14 @@
 .vs/
 .vscode/
 .idea/
+.env.local
+.env.*.local
+
+# Editors temporários
+*.swp
+*.swo
+*~
+.editorconfig
 
 # Sistema operacional
 .DS_Store
@@ -54,3 +69,7 @@ Desktop.ini
 *.unitypackage
 *.log
 *.orig
+BrightSquad.slnx
+
+# Snyk Security Extension - AI Rules (auto-generated)
+.github/instructions/snyk_rules.instructions.md
